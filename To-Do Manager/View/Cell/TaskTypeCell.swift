@@ -9,7 +9,7 @@ import UIKit
 
 class TaskTypeCell: UITableViewCell {
 
-    @IBOutlet var typeTitle: UILabel!
+    @IBOutlet var typeTitle: UILabel! //123123123123
     @IBOutlet var typeDescription: UILabel!
     
 
